@@ -11,5 +11,5 @@ specifications and saves them within a separate file.
 
 ****
 
-[license-shield]: https://img.shields.io/github/license/ottomated/CrewLink.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/Szavior/EasyPass/blob/main/LICENSE
